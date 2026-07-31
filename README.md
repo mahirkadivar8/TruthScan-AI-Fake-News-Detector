@@ -1,38 +1,40 @@
-# 🔍 TruthScan - AI Fake News Detector
+# TruthScan - AI Fake News Detector
 
-AI-powered system that classifies news articles as **Real** or **Fake** using NLP and Machine Learning.
+AI-powered system that classifies news articles as Real or Fake 
+using NLP and Machine Learning.
 
-## 📊 Project Status
-🔄 **In Progress** - Currently: Setting up project structure
+## Project Status
+In Progress - Currently: Data Loading and EDA
 
-## 🎯 Problem Statement
-Fake news spreads rapidly on social media. This project builds an automated system to detect misinformation.
+## Problem Statement
+Fake news is a major problem on social media platforms. 
+This project aims to build an automated system to detect 
+fake news and help users verify information.
 
-## 📁 Dataset
-- **Source:** Kaggle - ISOT Fake News Dataset (clmentbisaillon)
-- **Size:** 44,898 news articles
-  - 23,481 Fake news articles
-  - 21,417 Real news articles
-- **Features:** title, text, subject, date
+## Dataset
+- Source: Kaggle - ISOT Fake News Dataset
+- Total Articles: 44,898
+- Fake News: 23,481
+- Real News: 21,417
+- Columns: title, text, subject, date
 
-## 🛠️ Tech Stack
-- **Language:** Python
-- **Data Analysis:** Pandas, NumPy
-- **Visualization:** Matplotlib, Seaborn
-- **NLP:** NLTK
-- **Machine Learning:** Scikit-learn
-- **Deployment:** Streamlit
+## Tech Stack
+- Python
+- Pandas, NumPy
+- Matplotlib, Seaborn
+- NLTK
+- Scikit-learn
+- Streamlit
 
-## 📈 Project Phases
-
+## Project Phases
 | Phase | Description | Status |
 |-------|-------------|--------|
-| 1 | Data Loading & EDA | 🔄 In Progress |
-| 2 | Data Visualization | ⏳ Upcoming |
-| 3 | Text Preprocessing (NLP) | ⏳ Upcoming |
-| 4 | ML Model Training | ⏳ Upcoming |
-| 5 | Deep Learning (LSTM) | ⏳ Upcoming |
-| 6 | Web App Deployment | ⏳ Upcoming |
+| 1 | Data Loading and EDA | In Progress |
+| 2 | Data Visualization | Upcoming |
+| 3 | Text Preprocessing | Upcoming |
+| 4 | ML Model Training | Upcoming |
+| 5 | Deep Learning | Upcoming |
+| 6 | Web App Deployment | Upcoming |
 
-## 👤 Author
+## Author
 Mahir Kadivar
