@@ -40,7 +40,7 @@ and help users verify information.
 - Random Forest Accuracy: 99.79%
 
 ## Live Demo
-Coming soon...
+https://truthscan-ai-fake-news-detector.streamlit.app
 
 ## Author
 Mahir Kadivar
