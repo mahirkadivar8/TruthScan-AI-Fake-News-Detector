@@ -4,12 +4,12 @@ AI-powered system that classifies news articles as Real or Fake
 using NLP and Machine Learning.
 
 ## Project Status
-In Progress - Currently: Data Loading and EDA
+Completed
 
 ## Problem Statement
 Fake news is a major problem on social media platforms. 
-This project aims to build an automated system to detect 
-fake news and help users verify information.
+This project builds an automated system to detect fake news 
+and help users verify information.
 
 ## Dataset
 - Source: Kaggle - ISOT Fake News Dataset
@@ -29,12 +29,18 @@ fake news and help users verify information.
 ## Project Phases
 | Phase | Description | Status |
 |-------|-------------|--------|
-| 1 | Data Loading and EDA | In Progress |
-| 2 | Data Visualization | Upcoming |
-| 3 | Text Preprocessing | Upcoming |
-| 4 | ML Model Training | Upcoming |
-| 5 | Deep Learning | Upcoming |
-| 6 | Web App Deployment | Upcoming |
+| 1 | Data Loading and EDA | Done |
+| 2 | Data Visualization | Done |
+| 3 | Text Preprocessing | Done |
+| 4 | ML Model Training | Done |
+| 5 | Web App Deployment | Done |
+
+## Results
+- Logistic Regression Accuracy: 98.79%
+- Random Forest Accuracy: 99.79%
+
+## Live Demo
+Coming soon...
 
 ## Author
 Mahir Kadivar
